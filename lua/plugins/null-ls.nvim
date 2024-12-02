@@ -1,0 +1,7 @@
+return {
+  {
+    "jose-elias-alvarez/null-ls.nvim",
+    config = true, -- 啟用插件的默認配置
+  },
+}
+
